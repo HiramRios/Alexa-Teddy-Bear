@@ -1,0 +1,99 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "teddy bear",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "BeginningIntent",
+          "slots": [],
+          "samples": [
+            "im having a pleasant day my self ",
+            "Im having a nice day "
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "BadIntent",
+          "slots": [],
+          "samples": [
+            "okay i guess ",
+            "alright ",
+            "not good ",
+            "a little sad ",
+            "kinda sad",
+            "sad",
+            "not okay",
+            "bad"
+          ]
+        },
+        {
+          "name": "LostIntent",
+          "slots": [],
+          "samples": [
+            "unable to focus ",
+            "stressed ",
+            "what to do ",
+            "I dont know ",
+            "lost "
+          ]
+        },
+        {
+          "name": "GoodIntent",
+          "slots": [],
+          "samples": [
+            "happy ",
+            "proud of my self ",
+            "not too shaby ",
+            "good",
+            "amazing",
+            "great "
+          ]
+        },
+        {
+          "name": "YesIntent",
+          "slots": [],
+          "samples": [
+            "definitely",
+            "of course",
+            "yes"
+          ]
+        },
+        {
+          "name": "NoIntent",
+          "slots": [],
+          "samples": [
+            "i think ill be good",
+            "im okay thank you  ",
+            "no"
+          ]
+        },
+        {
+          "name": "ThankIntent",
+          "slots": [],
+          "samples": [
+            "thank you i needed that ",
+            "thanks ",
+            "Thank you "
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "20"
+}
